@@ -1,6 +1,6 @@
 {
   "name": "react-to-target-auto-scroll",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A React auto scroll component which scrolls to a given target position, supports linear and eased scrolling",
   "main": "dist/index.js",
   "scripts": {
@@ -35,6 +35,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/marcianoviereck/react-to-target-auto-scroll"
+    "url": "https://github.com/simacan/react-to-target-auto-scroll"
   }
 }
