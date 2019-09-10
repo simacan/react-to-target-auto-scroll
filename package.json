@@ -1,6 +1,6 @@
 {
   "name": "react-to-target-auto-scroll",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "A React auto scroll component which scrolls to a given target position, supports linear and eased scrolling",
   "main": "dist/index.js",
   "scripts": {
@@ -25,7 +25,7 @@
     "babel-eslint": "^4.0.10",
     "babel-loader": "~5.3.2",
     "es5-shim": "~4.1.10",
-    "eslint": "^0.21.1",
+    "eslint": "^6.3.0",
     "eslint-plugin-react": "^2.3.0",
     "webpack": "~1.11.0"
   },
